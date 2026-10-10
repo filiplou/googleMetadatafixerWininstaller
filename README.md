@@ -26,3 +26,5 @@ a trusted source and choose "More info" followed by "Run anyway" only if you
 trust the file.
 
 The app requires 64-bit Windows 10 or later.
+
+Fixed excessive terminal window popups, terminal commands now run silently in the backgroun
